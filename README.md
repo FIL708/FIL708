@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="60px"></a>
+<a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" width="60px"></a>
 <a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="60px"></a>
 <a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2285/1024/logo-512.png" width="60px"></a>
 <a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" width="60px"></a>
