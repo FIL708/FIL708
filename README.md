@@ -4,13 +4,13 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>I have been interested in IT industry for several years.
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
 
-<h3 align="center">:wrench:Technologies and tools</h3>
+<h3 align="center">:wrench:Technologies and tools:</h3>
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,vscode" />
 </p>
 
-<h3 align="center">Contact with me</h3>
+<h3 align="center">:telephone_receiver:Contact with me:</h3>
 <p align="center" gap="10px>
     <a href="https://www.linkedin.com/in/filipzebrowski/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" width="30px"></a>
     <a href="https://www.facebook.com/f.zebrowski/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="30px"></a>
