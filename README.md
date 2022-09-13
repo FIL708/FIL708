@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/filipzebrowski/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" width="60px"></a>
+<a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" width="60px"></a>
 
 ### Hello World ?
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
