@@ -1,5 +1,6 @@
 <a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="60px"></a>
 <a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="60px"></a>
+<a href="https://www.linkedin.com/in/filipzebrowski/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_messenger-512.png" width="60px"></a>
 
 ### Hello World ?
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
@@ -13,3 +14,4 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,vscode" />
   </a>
 </p>
+https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_messenger-512.png
