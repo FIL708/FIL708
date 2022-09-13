@@ -1,7 +1,6 @@
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,git)](https://skills.thijs.gg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,vscode" />
   </a>
 </p>
 
