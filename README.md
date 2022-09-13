@@ -12,5 +12,4 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,vscode" />
-  </a>
 </p>
