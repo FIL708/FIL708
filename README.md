@@ -1,4 +1,9 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,git)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
+  </a>
+</p>
 
 ### Hello World ?
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
