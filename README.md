@@ -1,9 +1,4 @@
-<p align="center">
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipzebrowski/)
-    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/f.zebrowski/)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fil_ski9/)
-</p>
-<p align="center">
+<p align="center" margin="10px>
     <a href="https://www.linkedin.com/in/filipzebrowski/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" width="30px"></a>
     <a href="https://www.facebook.com/f.zebrowski/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="30px"></a>
     <a href="https://www.instagram.com/fil_ski9/"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" width="30px"></a>
