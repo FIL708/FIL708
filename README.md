@@ -1,3 +1,5 @@
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
 ### Hello World ?
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
 <br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
