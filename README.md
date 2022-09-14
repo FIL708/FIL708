@@ -44,6 +44,13 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight" />
+</a>
+
 <h1></h1>
 <h3 align="center">:iphone: Contact with me:</h3>
 <div align="center">
