@@ -7,6 +7,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
 
 <h3 align="center">:wrench: Technologies and tools:</h3>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
