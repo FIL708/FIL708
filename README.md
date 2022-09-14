@@ -40,13 +40,14 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
   
 </div>
 <br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
 
 <h1></h1>
 <h3 align="center">:iphone: Contact with me:</h3>
