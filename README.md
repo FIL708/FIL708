@@ -51,6 +51,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 </div>
 
 <h1></h1>
+<img src"https://media.giphy.com/media/bOITWxGABP9ni/giphy.gif" />
 <h3 align="center">:iphone: Contact with me:</h3>
 <div align="center">
 
