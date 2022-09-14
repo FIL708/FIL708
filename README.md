@@ -42,10 +42,10 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FIL708&show_icons=true&theme=tokyonight" />
 </a>
 
 <h1></h1>
