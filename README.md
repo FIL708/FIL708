@@ -5,7 +5,7 @@
   <h1>Hi, my name is Filip :wave:</h1>
 </div>
 
-<h3 align="left">:wrench: About me:</h3>
+<h3 align="left">:shipit: About me:</h3>
 
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
 <br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
@@ -40,6 +40,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
   
 </div>
 <br>
+<h3 align="left">:bar_chart: Stats:</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708&layout=compact&theme=tokyonight" />
