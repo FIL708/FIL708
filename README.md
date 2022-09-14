@@ -6,7 +6,8 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>I have been interested in IT industry for several years.
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
 
-###:wrench: Technologies and tools:</h3>
+###:wrench: Technologies and tools:
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,15 +20,12 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <br>
 ###:wrench: Learning platforms:
+<br>
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-<br>
-
-
-
 
 <h3 align="center">:iphone: Contact with me:</h3>
 <div align="center">
