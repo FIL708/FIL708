@@ -6,7 +6,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>I have been interested in IT industry for several years.
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
 
-<p>:wrench: Technologies and tools:<p>
+<h4 align="center">:wrench: Technologies and tools:</h4>
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 </div>
 
 <br>
-<h4>:wrench: Learning platforms:</h4>
+<h4 align="center">:wrench: Learning platforms:</h4>
 <div align="center">
   
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
