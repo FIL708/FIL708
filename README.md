@@ -1,5 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="header-gif">
-<img align="center" src="https://komarev.com/ghpvc/?username=FIL08&style=flat-square&color=blue" alt="views-stat"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="header-gif">
+  <img src="https://komarev.com/ghpvc/?username=FIL08&style=flat-square&color=blue" alt="views-stat"/>
+</div>
 
 # Hi, my name is Filip :wave:
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
