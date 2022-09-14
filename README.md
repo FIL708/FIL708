@@ -15,7 +15,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>
 
 <h3 align="left">:wrench: Technologies and tools:</h3>
-<div align="left">
+<div align="center">
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +30,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 </div>
 <br>
 <h3 align="left">:books: Learning platforms:</h3>
-<div align="left">
+<div align="center">
   
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
