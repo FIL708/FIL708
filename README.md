@@ -46,7 +46,6 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <h1></h1>
 <h3 align="center">:iphone: Contact with me:</h3>
 <div align="center">
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipzebrowski/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/f.zebrowski/)
