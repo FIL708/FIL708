@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" width="100"/>
+</div>
+
 # Hi, my name is Filip :wave:
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
 <br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
