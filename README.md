@@ -33,7 +33,6 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 
 
 <h3 align="center">:iphone: Contact with me:</h3>
-<img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" width="100"/>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipzebrowski/)
@@ -41,3 +40,4 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fil_ski9/)
 
 </div>
+<img src="https://media.giphy.com/media/dXRrE7Nn5BcN8YXRzE/giphy.gif" width="100"/>
