@@ -33,7 +33,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIL08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FIL708)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <h3 align="center">:iphone: Contact with me:</h3>
