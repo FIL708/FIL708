@@ -1,4 +1,4 @@
-
+<img src="https://komarev.com/ghpvc/?username=FIL08&style=flat-square&color=blue" alt=""/>
 
 # Hi, my name is Filip :wave:
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
