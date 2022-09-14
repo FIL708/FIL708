@@ -28,7 +28,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   
 </div>
-
+<br>
 <h3 align="left">:books: Learning platforms:</h3>
 <div align="left">
   
@@ -45,6 +45,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <h1></h1>
 <h3 align="center">:iphone: Contact with me:</h3>
 <div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipzebrowski/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/f.zebrowski/)
