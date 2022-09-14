@@ -5,6 +5,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
 <br>I have been interested in IT industry for several years.
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
+<br>
 
 <h4 align="center">:wrench: Technologies and tools:</h4>
 <div align="center">
