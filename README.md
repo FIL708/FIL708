@@ -6,7 +6,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
 <br>I have been interested in IT industry for several years.
 <br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
 
-<h4>:wrench: Technologies and tools:</h4>
+<p>:wrench: Technologies and tools:<p>
 <br>
 <div align="center">
   
