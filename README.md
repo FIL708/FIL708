@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="header-gif" height="200px" width="auto" >
   <br>
   <img src="https://komarev.com/ghpvc/?username=FIL08&style=flat-square&color=blue" alt="views-stat"/>
+  <h1>Hi, my name is Filip :wave:</h1>
 </div>
 
 <h3 align="left">:wrench: About me:</h3>
 
-# Hi, my name is Filip :wave:
 I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
 <br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
 <br>I have been interested in IT industry for several years.
