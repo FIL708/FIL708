@@ -22,7 +22,7 @@ I am veterinary diagnostician and team leader in one of the largest veterinary l
   
 </div>
 
-<h4 align="center">:wrench: Learning platforms:</h4>
+<h4 align="center">:books: Learning platforms:</h4>
 <div align="center">
   
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
