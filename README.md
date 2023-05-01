@@ -4,7 +4,8 @@
 
 I am a sofware developer with entry-level experience as a full stack developer.
 <br> I successfully completed an internship contract during which I learned technologies such as React, Express, Sequelize and Docker.
-<br> Previously I worked at one of the lergest veterinary laboratory in Poland as team leader.
+<br> In order to confirm my skills I decided to create a project that you can find [here](https://github.com/FIL708/shelter)
+<br> Previously I worked at one of the largest veterinary laboratory in Poland as team leader.
 
 <br>
 <br>
