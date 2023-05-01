@@ -2,10 +2,9 @@
 
 <h3 align="left">:shipit: About me:</h3>
 
-I am veterinary diagnostician and team leader in one of the largest veterinary laboratories in Poland.
-<br>I have 3+ years of experience in this industry and after this time, I decided to make some changes.
-<br>I have been interested in IT industry for several years.
-<br>Previously, I treated programming as a hobby, but now I want to turn my interest into job. That's my goal!
+I am a sofware developer with entry-level experience as a full stack developer.
+<br> I successfully completed an internship contract during which I learned technologies such as React, Express, Sequelize and Docker.
+
 <br>
 <br>
 
