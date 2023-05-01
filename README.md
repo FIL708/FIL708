@@ -4,6 +4,7 @@
 
 I am a sofware developer with entry-level experience as a full stack developer.
 <br> I successfully completed an internship contract during which I learned technologies such as React, Express, Sequelize and Docker.
+<br> Previously I worked at one of the lergest veterinary laboratory in Poland as team leader.
 
 <br>
 <br>
